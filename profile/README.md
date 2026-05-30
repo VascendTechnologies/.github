@@ -23,6 +23,12 @@ Rendere l'intelligenza artificiale una capacità concreta, governabile e accessi
 
 ## Cosa facciamo
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/VascendTechnologies/.github/main/profile/ricerca_vascend.webp" alt="Il percorso di ricerca Vascend: ricerca applicata, sviluppo di modelli e soluzioni, integrazione in imprese e istituzioni, ottimizzazione e crescita, fino a un'Italia competitiva in Europa." width="100%" />
+
+</div>
+
 - **Ricerca applicata** — metodi e sistemi di intelligenza artificiale che nascono da problemi reali di imprese e istituzioni, non da esercizi astratti.
 - **Integrazione** — portiamo l'IA dentro processi e servizi, dalla progettazione alla messa in produzione, con attenzione costante a sicurezza e affidabilità.
 - **Trasferimento tecnologico** — trasformiamo la ricerca in strumenti utilizzabili, sostenibili e duraturi nel tempo.
