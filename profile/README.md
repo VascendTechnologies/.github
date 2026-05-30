@@ -35,6 +35,8 @@ Un'Italia che guida la trasformazione dell'intelligenza artificiale invece di su
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/VascendTechnologies/.github/main/profile/banner_footer.webp" alt="Ricerca sull'intelligenza artificiale per rendere l'Italia più competitiva" width="100%" />
+
 **[vascend.it](https://vascend.it)** &nbsp;·&nbsp; Italia
 
 </div>
