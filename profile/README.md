@@ -19,6 +19,12 @@ L'intelligenza artificiale sta ridisegnando il modo in cui le imprese producono 
 
 ## La nostra missione
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/VascendTechnologies/.github/main/profile/missione_vascend.webp" alt="La nostra missione: adattare, adattare e governare l'intelligenza artificiale, dalla ricerca all'adozione, per un'Italia più competitiva." width="100%" />
+
+</div>
+
 Rendere l'intelligenza artificiale una capacità concreta, governabile e accessibile per il tessuto produttivo e istituzionale italiano. Siamo convinti che la competitività del Paese nel prossimo decennio si decida sulla capacità di adottare, adattare e mettere in produzione l'IA su scala nazionale.
 
 ## Cosa facciamo
