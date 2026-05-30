@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VascendTechnologies/.github/main/profile/banner-vascend.png" alt="Vascend Technologies — Organizzazione di ricerca sull'intelligenza artificiale. Integrare l'IA nelle imprese e nelle istituzioni italiane e portare l'Italia a competere nel settore dell'IA." width="80%" />
+<img src="https://raw.githubusercontent.com/VascendTechnologies/.github/main/profile/banner-vascend.png" alt="Vascend Technologies — Organizzazione di ricerca sull'intelligenza artificiale. Integrare l'IA nelle imprese e nelle istituzioni italiane e portare l'Italia a competere nel settore dell'IA." width="100%" />
 
 # Vascend Technologies
 
