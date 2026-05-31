@@ -39,6 +39,16 @@ Rendere l'intelligenza artificiale una capacità concreta, governabile e accessi
 - **Integrazione** — portiamo l'IA dentro processi e servizi, dalla progettazione alla messa in produzione, con attenzione costante a sicurezza e affidabilità.
 - **Trasferimento tecnologico** — trasformiamo la ricerca in strumenti utilizzabili, sostenibili e duraturi nel tempo.
 
+## La nostra ricerca
+
+**AI che diventa codice. Codice che diventa impatto.**
+
+Su GitHub condividiamo una parte del lavoro tecnico di Vascend Technologies: modelli, strumenti, prototipi e risultati della nostra ricerca sull'intelligenza artificiale.
+
+Il nostro obiettivo è costruire tecnologia utile, sicura e accessibile, capace di rafforzare la competitività dell'Italia nel settore dell'AI.
+
+Quando possibile, lavoriamo in modo aperto: repository, documentazione e paper per trasformare la ricerca in valore concreto per imprese, istituzioni e sviluppatori.
+
 ## La nostra visione
 
 Un'Italia che guida la trasformazione dell'intelligenza artificiale invece di subirla: imprese più competitive, istituzioni più efficienti e una filiera nazionale dell'IA capace di confrontarsi con i migliori al mondo.
